@@ -1,0 +1,26 @@
+{
+   "donate_url":"https://goo.gl/41iI5i",
+   "website_url":"https://plus.google.com/communities/111037372581335961267",
+   "addons":[
+      {
+         "title":"Magisk",
+         "summary":"Magisk",
+         "url":"https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
+      },
+      {
+         "title":"Magisk",
+         "summary":"Magisk Uninstaller",
+         "url":"https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
+      }
+   ],
+   "developer":"xyyx",
+   "developer_url":"https://forum.xda-developers.com/member.php?u=5422618",
+   "forum_url":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654",
+   "filename":"Nitrogen-OS-P-oneplus3-20181214.zip",
+   "build_date":"20181214",
+   "filesize":551600224,
+   "md5":"E184425ECFC32FE4CFB41C9CACEE4B66",
+   "url":"https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/9.0/Nitrogen-OS-P-oneplus3-20181214.zip/download",
+   "changelog":"new",
+   "error":false
+}
