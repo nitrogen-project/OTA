@@ -1,1 +1,26 @@
-{"addons": [{"title": "Magisk", "summary": "Magisk", "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"}, {"title": "Magisk", "summary": "Magisk Uninstaller", "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"}], "donate_url": "https://goo.gl/41iI5i", "website_url": "https://plus.google.com/communities/111037372581335961267", "developer": "shahan_mik3", "developer_url": "https://forum.xda-developers.com/member.php?u=5162591", "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557", "filename": "Nitrogen-OS-P-beryllium-20190109.zip", "build_date": "20190109", "filesize": "461139555", "md5": "cfc875b44ade99677fe7d30ec75ae65e", "url": "https://sourceforge.net/projects/nitrogen-project/files/poco/Nitrogen-OS-P-beryllium-20190109.zip/download", "changelog": "=========================\n     Changelog for 09/01\n=========================\n\n*Smartclock improvements\n*Add thermal modes options(settings>battery>thermal mode)\n*Faceunlock improvements\n*Add proximity check on wake\n*Jan sec patch\n*Add google feed in default launcher\n*Fix HDR issue\n*Upstream from nos\n\n", "error": "false"}
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
+    }
+  ],
+  "donate_url": "https://goo.gl/41iI5i",
+  "website_url": "https://plus.google.com/communities/111037372581335961267",
+  "developer": "shahan_mik3",
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5162591",
+  "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
+  "filename": "Nitrogen-OS-P-beryllium-20190207.zip",
+  "build_date": "20190207",
+  "filesize": "461571972",
+  "md5": "4a398d54bb2a2a448b145b3d41608051",
+  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190207.zip/download",
+  "changelog": "=========================     \nBrief Changelog for 07/02    \n=========================\n\n*Febuary patch\n*Fix exfat sdcard issue\n*Fix Clock not staying hidden\n*Fixed dt2w for focaltech panels\n*Fix HDR issue\n*Add AD features\n*sync tile\n*Fix sounds fc\n*Improve smartclock\n*Fix black bar on screenshot and screenrecording\n*Updated touch firmware from 9.1.24\n*Battery improvements\n*upstream from nos\n*upstream from los device/kernel tree\n",
+  "error": "false"
+}
