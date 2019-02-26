@@ -1,0 +1,26 @@
+{
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/santoni/Pie/Nitrogen-OS-P-santoni-20190226.zip/download",
+  "developer_url": "https://t.me/ElebrUS",
+  "filesize": "537930988",
+  "donate_url": "https://www.paypal.me/ElebrUS",
+  "md5": "f6072adfec8741448304ce5b657e1d03",
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip",
+      "summary": "Magisk",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip",
+      "summary": "Magisk Uninstaller",
+      "title": "Magisk"
+    }
+  ],
+  "error": "false",
+  "forum_url": "https://t.me/fineline_devs",
+  "build_date": "20190226",
+  "filename": "Nitrogen-OS-P-santoni-20190226.zip",
+  "changelog": "====================\n     2019-02-26    \n====================\n\n====================\n     2019-02-25    \n====================\n\n====================\n     2019-02-24    \n====================\n\n====================\n     2019-02-23    \n====================\n\n * device/qcom/sepolicy\nb101c37  sepolicy: Fix ` breakage from upstream  [Vol Zhdanov]\n\n * system/sepolicy\n7dddfa6  sepolicy: Ignore newly added selinux objects  [Luca Stefani]\nff4384e  sepolicy: Allow stats_companion to register thermal throttling event listener.  [Yangster]\nd6a2841  sepolicy: create rules for system properties  [Aalique Grahame]\n9eae3b7  sepolicy: Allow fsck_untrusted to getattr block_device  [sb6596]\n4b8a940  sepolicy: Fix storaged access to /sys/block/mmcblk0/stat after 48027a00  [Vladimir Oltean]\n3e91f76  sepolicy: Grant mediaextractor access to files over all sdcard fs types  [Bruno Martins]\nd5c7c50  sepolicy: New type sdcard_posix for labeled filesystems  [Tom Marshall]\n\n * vendor/nitrogen\n4a0caf3  sepolicy: Add sepolicy for OTA app  [jhenrique09]\n9f92449  sepolicy: Improve label of I/O sched tuning nodes  [Nico]\n3eb1732  sepolicy: Label and allow init to write to I/O sched tuning nodes  [Kevin F. Haggerty]\n3e55d5c  sepolicy: Remove exfat context and set sdFAT to exFAT  [Rashed Abdel-Tawab]\n74639de  sepolicy: Make fuseblk use vfat context  [Luca Stefani]\n10202b9  sepolicy: Remove stale ntfs genfscon policy  [Paul Keith]\n0745801  sepolicy: Label sdfat as vfat  [Andreas Schneider]\n01641a4  sepolicy: Cleanup context labelling for external sdcards  [Paul Keith]\n834e216  sepolicy: Move exfat, ntfs and fuseblk types to system/sepolicy  [Andreas Schneider]\n07a3792  sepolicy: allow vold to mount fuse-based sdcard  [Pawit Pornkitprasan]\n7dcc3eb  sepolicy: Allow vold to `getattr` on mkfs_exec  [LuK1337]\nd23ba50  sepolicy: fix denials for external storage  [codeworkx]\ne981ec9  sepolicy: treat fuseblk as sdcard_external  [Pawit Pornkitprasan]\n17f9c44  sepolicy: label exfat and ntfs mkfs executables  [codeworkx]\nba3123a  sepolicy: Add domain for mkfs binaries  [Keith Mok]\n0394688  sepolicy: Set the context for fsck.exfat/ntfs to fsck_exec  [dhacker29]\n9788586  sepolicy: Make sysinit permissive  [Luca Stefani]\na1f6c3e  sepolicy: Fix sysinit denials  [Steve Kondik]\nc15bf96  sepolicy: Add policy for sysinit  [myfluxi]\n1dd1d5e  sepolicy: Move rom-specific sepolicy to system  [Vol Zhdanov]\n\n====================\n     2019-02-22    \n====================\n\n====================\n     2019-02-21    \n====================\n\n====================\n     2019-02-20    \n====================\n\n * device/qcom/sepolicy\n4e904ca  Merge tag 'LA.UM.7.4.r1-04700-8x98.0' of device/qcom/sepolicy into p  [Vol Zhdanov]\n\n * vendor/qcom/opensource/interfaces\n1447a27  Merge tag 'LA.UM.7.4.r1-04700-8x98.0' of vendor/qcom-opensource/interfaces into p  [Vol Zhdanov]\n\n",
+  "developer": "ElebrUS",
+  "website_url": "https:/t.me/fineline_devs"
+}
