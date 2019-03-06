@@ -16,11 +16,11 @@
   "developer": "shahan_mik3",
   "developer_url": "https://forum.xda-developers.com/member.php?u=5162591",
   "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
-  "filename": "Nitrogen-OS-P-beryllium-20190207.zip",
-  "build_date": "20190207",
-  "filesize": "461571972",
-  "md5": "4a398d54bb2a2a448b145b3d41608051",
-  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190207.zip/download",
-  "changelog": "=========================     \nBrief Changelog for 07/02    \n=========================\n\n*Febuary patch\n*Fix exfat sdcard issue\n*Fix Clock not staying hidden\n*Fixed dt2w for focaltech panels\n*Fix HDR issue\n*Add AD features\n*sync tile\n*Fix sounds fc\n*Improve smartclock\n*Fix black bar on screenshot and screenrecording\n*Updated touch firmware from 9.1.24\n*Battery improvements\n*upstream from nos\n*upstream from los device/kernel tree\n",
+  "filename": "Nitrogen-OS-P-beryllium-20190306.zip",
+  "build_date": "20190306",
+  "filesize": "461874971",
+  "md5": "1dfa9cc7f49dbe97a9c15e94cd3a7da8",
+  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190306.zip/download",
+  "changelog": "=========================\nBrief Changelog for 06/03\n=========================\n\n*March security patch\n*Added per app thermal\n*Added uptime in about phone\n*Add extended volume panel(button>volume rocker)\n*Onehand mode Qs tile\n*fix memory leak\n*fix rssnr toggle disabled on boot\n*fix smartclock\n*revert to 4g icon\n*Add 3 finger swipe screenshot\n*Fix HDR again\n*Fix network disappearing randomly\n*Disable force percentage on lockscreen\n*Improve per app thermal\n*Improve statusbar padding\n*Compiled using Clang 9.0.0\n*Merge tag 'LA.UM.7.3.r1-06900-sdm845.0'\n*kernel upstream to 4.9.161\n*Misc fixes and optimizations\n*Upstream from los(device specific changes)\n*Upstream from nos\n",
   "error": "false"
 }
