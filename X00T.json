@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-nitrogen-os-t3868346",
-  "build_date": "20190211",
+  "build_date": "20190315",
   "changelog": "=========================\n     Changelog for 2019/02/11\n=========================\n\n*February security patch\n*Upstreamed kernel to 4.4.174 along with last sdm660 pie caf tag\n*Upstream from nitrogen\n*Updated some blobs from mi a2 lite\n\n*Improvements to offline charging animation\n\nSome under the hood changes i forgot to mention \n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X00T/Nitrogen-OS-P-X00T-20190211.zip/download",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X00T/Nitrogen-OS-P-X00T-20190315.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X00T-20190211.zip",
-  "filesize": "688031162",
-  "md5": "465638f34bd3526a517a0447d980f4bd",
+  "filename": "Nitrogen-OS-P-X00T-20190315.zip",
+  "filesize": "593748358",
+  "md5": "e145571e276595331364d73bbb286887",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
