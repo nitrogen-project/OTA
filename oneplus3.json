@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654", 
-  "build_date": "20190305", 
-  "changelog": "====================\n     2019-03-05    \n====================\n\n * bionic\na58232b  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * build/make\nbfd5b14  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * frameworks/av\nd842da5  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * frameworks/base\n86031dc  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * frameworks/native\nfc04ec8  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * hardware/nxp/nfc\ne27800c  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * packages/apps/PackageInstaller\n14821b9  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * system/bt\n54af460  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n * system/core\nad7a17e  Merge tag 'android-9.0.0_r34' into p  [xyyx]\n\n====================\n     2019-03-04    \n====================\n\n====================\n     2019-03-03    \n====================\n\n====================\n     2019-03-02    \n====================\n\n====================\n     2019-03-01    \n====================\n\n====================\n     2019-02-28    \n====================\n * OTA\n1622403  OTA: polaris 27/02/2019  [palaych]\n\n====================\n     2019-02-27    \n====================\n * OTA\n0e96bba  santoni: OTA 26.02.2019  [Zainudin Shamilov]\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/9.0/Nitrogen-OS-P-oneplus3-20190305.zip/download", 
+  "build_date": "20190403", 
+  "changelog": "====================\n     2019-04-03    \n====================\n\n * build/make\n5e0c8e2  Merge tag 'android-9.0.0_r35' into p  [xyyx]\n\n * device/oneplus/oneplus3\n1d830fb  CarrierConfig: Add Megafon,Beeline, MTS config  [xyyx]\n\n * frameworks/base\n506f211  Merge tag 'android-9.0.0_r35' into p  [xyyx]\n\n * system/bt\naf55064  Merge tag 'android-9.0.0_r35' into p  [xyyx]\n\n====================\n     2019-04-02    \n====================\n\n====================\n     2019-04-01    \n====================\n\n====================\n     2019-03-31    \n====================\n\n====================\n     2019-03-30    \n====================\n\n====================\n     2019-03-29    \n====================\n\n====================\n     2019-03-28    \n====================\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/9.0/Nitrogen-OS-P-oneplus3-20190403.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-P-oneplus3-20190305.zip", 
-  "filesize": "555101970", 
-  "md5": "783d8e949440a1e35c808ec6162f85e8", 
+  "filename": "Nitrogen-OS-P-oneplus3-20190403.zip", 
+  "filesize": "555130215", 
+  "md5": "5395108904cc3b2c64b4ab3c6b6a5963", 
   "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
