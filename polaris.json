@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-nitrogen-os-beta-t3891508", 
-  "build_date": "20190312", 
-  "changelog": "====================\n     2019-03-12    \n====================\n\n * frameworks/base\n08a2605  frameworks/base: Support for third party NFC features and extensions  [Puneet Mishra]\n\n * packages/apps/Nfc\n0526a2b  NFC: Adding new vendor specific interface to NFC Service  [Puneet Mishra]\n\n====================\n     2019-03-11    \n====================\n\n====================\n     2019-03-10    \n====================\n * OTA\n65c8f01  OTA: kenzo 09/03/2019 Fix build date and make json more readable  [aranhid]\n\n * frameworks/opt/net/wifi\n240a71c  CountryCode: Use hack for all regions.  [xyyx]\n\n====================\n     2019-03-09    \n====================\n * OTA\nd80467f  Shamu: March 2019 update  [nitin1438]\n7c89042  OTA: kenzo 09/03/2019  [aranhid]\n\n====================\n     2019-03-08    \n====================\n\n====================\n     2019-03-07    \n====================\n * OTA\n17ee6dd  OTA: whyred 07/03  [rahul1892]\n\n * kernel/oneplus/msm8996\nf415041  wireless-regdb: Add 5 Ghz rules for Kazakhstan (KZ)  [Razziell]\n\n====================\n     2019-03-06    \n====================\n * OTA\n7e9a768  OTA: beryllium 06/03  [Shahan-mik3]\nf87a6a0  santoni: OTA 05.03.2019  [Nikita]\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/polaris/Nitrogen-OS-P-polaris-20190312.zip/download", 
+  "build_date": "20190406", 
+  "changelog": "====================\n     2019-04-06    \n====================\n * OTA\n401b9e6  OTA: whyred 2019/04/06  [rahul1892]\n\n * frameworks/base\nbe0b5a2  frameworks/base: Support for third party NFC features and extensions  [Puneet Mishra]\n\n * packages/apps/Nfc\nec6b9dc  NFC: Adding new vendor specific interface to NFC Service  [Puneet Mishra]\n\n * packages/services/Telephony\na239cb3  Telephony: Implement alternative method for manual network select  [Henrique Silva]\n\n====================\n     2019-04-05    \n====================\n\n====================\n     2019-04-04    \n====================\n\n * hardware/qcom/display-caf-msm8998\n89ecbeb  Revert \"display: Replace libqdmetadata.system with libqdmetadata\"  [Volodymyr Zhdanov]\n\n====================\n     2019-04-03    \n====================\n * OTA\n2b92f1c  op3: April patch  [xyyx]\n\n * build/make\n5e0c8e2  Merge tag 'android-9.0.0_r35' into p  [xyyx]\n\n * frameworks/base\n506f211  Merge tag 'android-9.0.0_r35' into p  [xyyx]\n\n * system/bt\naf55064  Merge tag 'android-9.0.0_r35' into p  [xyyx]\n\n====================\n     2019-04-02    \n====================\n\n====================\n     2019-04-01    \n====================\n\n====================\n     2019-03-31    \n====================\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/polaris/Nitrogen-OS-P-polaris-20190406.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-P-polaris-20190312.zip", 
-  "filesize": "458991050", 
-  "md5": "4bfc150e19d84d4d6300fd4069f8a38c", 
+  "filename": "Nitrogen-OS-P-polaris-20190406.zip", 
+  "filesize": "460160892", 
+  "md5": "46ae5119482a89566c062c74d553a995", 
   "donate_url": "https://www.paypal.me/palaych", 
   "addons": [
     {
