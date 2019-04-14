@@ -16,11 +16,11 @@
   "developer": "shahan_mik3",
   "developer_url": "https://forum.xda-developers.com/member.php?u=5162591",
   "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
-  "filename": "Nitrogen-OS-P-beryllium-20190306.zip",
-  "build_date": "20190306",
-  "filesize": "461874971",
-  "md5": "1dfa9cc7f49dbe97a9c15e94cd3a7da8",
-  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190306.zip/download",
-  "changelog": "=========================\nBrief Changelog for 06/03\n=========================\n\n*March security patch\n*Added per app thermal\n*Added uptime in about phone\n*Add extended volume panel(button>volume rocker)\n*Onehand mode Qs tile\n*fix memory leak\n*fix rssnr toggle disabled on boot\n*fix smartclock\n*revert to 4g icon\n*Add 3 finger swipe screenshot\n*Fix HDR again\n*Fix network disappearing randomly\n*Disable force percentage on lockscreen\n*Improve per app thermal\n*Improve statusbar padding\n*Compiled using Clang 9.0.0\n*Merge tag 'LA.UM.7.3.r1-06900-sdm845.0'\n*kernel upstream to 4.9.161\n*Misc fixes and optimizations\n*Upstream from los(device specific changes)\n*Upstream from nos\n",
+  "filename": "Nitrogen-OS-P-beryllium-20190414.zip",
+  "build_date": "20190414",
+  "filesize": "464262077",
+  "md5": "8153ea5fe17915ab56717c0103e018d2",
+  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190414.zip/download",
+  "changelog": "=========================\nBrief Changelog for 14/04\n=========================\n\n*April security patch\n*Dirac Tile\n*Aggressive battery\n*kernel upstream to 4.9.167\n*Misc fixes and optimizations\n*Upstream from los(device specific changes)\n*Upstream from nos\n",
   "error": "false"
 }
