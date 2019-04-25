@@ -1,0 +1,25 @@
+{
+  "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
+  "build_date": "20190425",
+  "changelog": "=========================\n     Changelog for 2019/04/25\n=========================\n\n*Initial Official build\n*AOD removed\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190425.zip/download",
+  "error": "false",
+  "filename": "Nitrogen-OS-P-X01BD-20190425.zip",
+  "filesize": "627869788",
+  "md5": "e9c54efa9166df8319108c666e0e8b19",
+  "donate_url": "https://goo.gl/41iI5i",
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip", 
+      "summary": "Magisk",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "summary": "Magisk Uninstaller",
+      "title": "Magisk"
+    }
+  ],
+  "developer_url": "https://forum.xda-developers.com/member.php?u=8276928",
+  "developer": "Jayant-Deshmukh"
+}
