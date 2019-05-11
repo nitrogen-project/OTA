@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
-  "build_date": "20190430",
-  "changelog": "=========================\n     Changelog for 2019/05/01\n=========================\n\n*Kernel issues fixed (My derp)\n*Upstreamed kernel to 4.4.179\n*Compiled kernel with clang 9.0.2\n*Added schedutil & blu_schedutil governors\n*Rewrite spectrum values\n*Added MIUI like poweroff charging animation(and good thing percentage also shows)\n*Reduced minimum brightness to 2\n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190430.zip/download",
+  "build_date": "20190511",
+  "changelog": "=========================\n     Changelog for 2019/05/11\n=========================\n\n*May security patch\n*Aggressive battery options\n*Hide arrows in Network Traffic\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190511.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X01BD-20190430.zip",
-  "filesize": "627750289",
-  "md5": "94c8105d641333dc1c4807fb8aed3937",
+  "filename": "Nitrogen-OS-P-X01BD-20190511.zip",
+  "filesize": "628176303",
+  "md5": "2caaec543656be5a916c3a8f0ced9b6d",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
