@@ -2,25 +2,25 @@
   "addons": [
     {
       "title": "Magisk",
-      "summary": "Magisk",
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
+      "summary": "Magisk 19.1",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.1/Magisk-v19.1.zip"
     },
     {
       "title": "Magisk",
       "summary": "Magisk Uninstaller",
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.1/Magisk-uninstaller-20190501.zip"
     }
   ],
   "donate_url": "https://goo.gl/41iI5i",
-  "website_url": "https://plus.google.com/communities/111037372581335961267",
+  "website_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
   "developer": "shahan_mik3",
   "developer_url": "https://forum.xda-developers.com/member.php?u=5162591",
   "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
-  "filename": "Nitrogen-OS-P-beryllium-20190414.zip",
-  "build_date": "20190414",
-  "filesize": "464262077",
-  "md5": "8153ea5fe17915ab56717c0103e018d2",
-  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190414.zip/download",
-  "changelog": "=========================\nBrief Changelog for 14/04\n=========================\n\n*April security patch\n*Dirac Tile\n*Aggressive battery\n*kernel upstream to 4.9.167\n*Misc fixes and optimizations\n*Upstream from los(device specific changes)\n*Upstream from nos\n",
+  "filename": "Nitrogen-OS-P-beryllium-20190512.zip",
+  "build_date": "20190512",
+  "filesize": "458721475",
+  "md5": "4754c3b0a7468933345e5aeede6a13bc",
+  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190512.zip/download",
+  "changelog": "=========================\nBrief Changelog for 12/05\n=========================\n\n*May security patch\n*Ability to force full screen and ignore notch\n*Fix black bar in screenshot (when using notch hide)\n*Update novatek touchscreen firmware from 9.5.6 Global Beta\n*beta changes\n*Upstream from los(device specific changes)\n*Upstream from nos\n",
   "error": "false"
 }
