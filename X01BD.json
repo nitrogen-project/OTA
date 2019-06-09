@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
-  "build_date": "20190519",
-  "changelog": "=========================\n     Changelog for 2019/05/19\n=========================\n\n*Whatsapp Videocall lag fixed\n*Kernel upstreamed to .180\n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190519.zip/download",
+  "build_date": "20190609",
+  "changelog": "=========================\n     Changelog for 2019/06/09\n=========================\n\n*June security patch\n*FMRadio fixed\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190609.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X01BD-20190519.zip",
-  "filesize": "628175084",
-  "md5": "43e84ee0953d1f735a7bf50c615b0392",
+  "filename": "Nitrogen-OS-P-X01BD-20190609.zip",
+  "filesize": "629222502",
+  "md5": "b8e573bcbc7009b91c2c62729e837ee6",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
