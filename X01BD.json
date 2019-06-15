@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
-  "build_date": "20190609",
-  "changelog": "=========================\n     Changelog for 2019/06/09\n=========================\n\n*June security patch\n*FMRadio fixed\n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190609.zip/download",
+  "build_date": "20190615",
+  "changelog": "=========================\n     Changelog for 2019/06/15\n=========================\n\n* Kernel upstreamed to .181\n* Wifi display fixed\n* Added Zenparts 2.0\n* Double tap to wake is back and working\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190615.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X01BD-20190609.zip",
-  "filesize": "629222502",
-  "md5": "b8e573bcbc7009b91c2c62729e837ee6",
+  "filename": "Nitrogen-OS-P-X01BD-20190615.zip",
+  "filesize": "623446578",
+  "md5": "82ff1f242f87b7b727b62a99a7001373",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
