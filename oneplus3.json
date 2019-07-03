@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654", 
-  "build_date": "20190606", 
-  "changelog": "====================\n     2019-06-06    \n====================\n\n * build/make\ndf0b1e4  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * frameworks/av\n88d9847  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * frameworks/base\n2e342f1  Add missing ensureRunningOnConnectivityServiceThread() function *After June Patch Merge  [phenomenall]\na8a4ded  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * frameworks/native\nbb6f1d6  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * frameworks/opt/net/wifi\n5af1c52  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * frameworks/opt/telephony\n9b39914  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * hardware/interfaces\n6d45cdc  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * hardware/qcom/audio\n497e554  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * packages/apps/DeskClock\n05a7492  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * packages/apps/PackageInstaller\neab58d4  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * packages/apps/Settings\n777c0a0  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * packages/inputmethods/LatinIME\ne1a1231  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * packages/services/Telecomm\na459d13  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * packages/services/Telephony\n7c60bdc  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * system/bt\nacdd2f5  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n * system/vold\n9948922  Merge tag 'android-9.0.0_r42' into p  [xyyx]\n\n====================\n     2019-06-05    \n====================\n\n====================\n     2019-06-04    \n====================\n\n====================\n     2019-06-03    \n====================\n\n====================\n     2019-06-02    \n====================\n\n====================\n     2019-06-01    \n====================\n\n====================\n     2019-05-31    \n====================\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/9.0/Nitrogen-OS-P-oneplus3-20190606.zip/download", 
+  "build_date": "20190703", 
+  "changelog": "====================\n     2019-07-03    \n====================\n\n * build/make\nfe99b35  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n * frameworks/av\nb657580  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n * frameworks/base\nbbe813c  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n * frameworks/native\na220a6b  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n * packages/apps/PackageInstaller\na4aeee1  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n * system/bt\n9844e27  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n====================\n     2019-07-02    \n====================\n\n====================\n     2019-07-01    \n====================\n\n====================\n     2019-06-30    \n====================\n\n====================\n     2019-06-29    \n====================\n\n====================\n     2019-06-28    \n====================\n\n====================\n     2019-06-27    \n====================\n * OTA\n67c4df5  OTA: whyred 26/06  [rahul1892]\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/9.0_pie_blobs/Nitrogen-OS-P-oneplus3-20190703.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-P-oneplus3-20190606.zip", 
-  "filesize": "555535352", 
-  "md5": "fe2eaef1fc2eebb58d292976152fe2a2", 
+  "filename": "Nitrogen-OS-P-oneplus3-20190703.zip", 
+  "filesize": "568213063", 
+  "md5": "17896a30ea84a129929281ab6c754dbd", 
   "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
