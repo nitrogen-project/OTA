@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
-  "build_date": "20190615",
-  "changelog": "=========================\n     Changelog for 2019/06/15\n=========================\n\n* Kernel upstreamed to .181\n* Wifi display fixed\n* Added Zenparts 2.0\n* Double tap to wake is back and working\n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190615.zip/download",
+  "build_date": "20190707",
+  "changelog": "=========================\n     Changelog for 2019/07/07\n=========================\n\n*July security patch/n*Upstreamed Kernel to 4.4.184/n*Added USB Fastcharge in Zenfoneparts/n*GoogleCamera functional now\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190707.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X01BD-20190615.zip",
-  "filesize": "623446578",
-  "md5": "82ff1f242f87b7b727b62a99a7001373",
+  "filename": "Nitrogen-OS-P-X01BD-20190707.zip",
+  "filesize": "615164966",
+  "md5": "5657640da0fc27f9af9684997fba53af",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
