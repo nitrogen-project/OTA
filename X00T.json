@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-nitrogen-os-t3868346",
-  "build_date": "20190614",
-  "changelog": "=========================\n     Changelog for 2019/06/141\n=========================\n\n*June security patch\n*Upstreamed kernel to 4.4.181 along with last sdm660 pie caf tag\n*Upstream from nitrogen\n*Probably fixed netflix issues\n\n*Fixed data sim selection reset on reboot\n\n *Improved Zenmotions app icons(Thanks to sagarmakhar\n\n *Fixed BT audio\n\n *Some under the hood changes i forgot to mention \n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X00T/Nitrogen-OS-P-X00T-20190614.zip/download",
+  "build_date": "20190707",
+  "changelog": "=========================\n     Changelog for 2019/06/141\n=========================\n\n*July security patch\n*Upstreamed kernel to 4.4.184\n*Upstream from nitrogen\n*Netflix issues still not fixed properly(Though you can use oemcrypto disabler magisk module if you don't mind L3)\n\n *Fixed kcal settings fc in Zenmotions\n\n *Some under the hood changes i forgot to mention \n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X00T/Nitrogen-OS-P-X00T-20190707.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X00T-20190614.zip",
-  "filesize": "588933146",
-  "md5": "5da6f9e79ffed2fe9d88fbe0a630dade",
+  "filename": "Nitrogen-OS-P-X00T-20190707.zip",
+  "filesize": "589299690",
+  "md5": "d9f85475dc9ce76bc3db7b23c2300559",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
