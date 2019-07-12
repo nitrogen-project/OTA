@@ -1,26 +1,26 @@
 {
   "forum_url": "https://forum.xda-developers.com/oneplus-6/development/rom-nitrogen-os-t3885637", 
-  "build_date": "20190511", 
-  "changelog": "====================\n     2019-05-11    \n====================\n * OTA\n5ce1e93  OTA: Add enchilada * Also updated to May patch  [Aditya Jadaun]\n\n====================\n     2019-05-10    \n====================\n\n====================\n     2019-05-09    \n====================\n * OTA\n07ac311  X00T:May update  [SayanAcharya]\ncad6607  shamu: May 2019 update  [nitin1438]\n\n====================\n     2019-05-08    \n====================\n * OTA\nb976336  OTA: whyred 07/05  [rahul1892]\n9966328  op3: May patch  [xyyx]\n\n * device/qcom/sepolicy\ndc62d47  Merge tag 'LA.UM.7.4.r1-05100-8x98.0' of device/qcom/sepolicy into p  [Volodymyr Zhdanov]\n\n * hardware/qcom/audio-caf-msm8998\nf1fd47d  Merge tag 'LA.UM.7.4.r1-05100-8x98.0' of hardware/qcom/audio into p  [Volodymyr Zhdanov]\n\n * hardware/qcom/display-caf-msm8998\n045a41a  Merge tag 'LA.UM.7.4.r1-05100-8x98.0' of hardware/qcom/display into p  [Volodymyr Zhdanov]\n\n * hardware/qcom/media-caf-msm8998\n0ecedd8  Merge tag 'LA.UM.7.4.r1-05100-8x98.0' of hardware/qcom/media into p  [Volodymyr Zhdanov]\n\n * vendor/qcom/opensource/data-ipa-cfg-mgr\n97fc5f1  Merge tag 'LA.UM.7.4.r1-05100-8x98.0' of vendor/qcom-opensource/data-ipa-cfg-mgr into p  [Volodymyr Zhdanov]\n\n * vendor/qcom/opensource/interfaces\n5c51b4e  Merge tag 'LA.UM.7.4.r1-05100-8x98.0' of vendor/qcom-opensource/interfaces into p  [Volodymyr Zhdanov]\n\n====================\n     2019-05-07    \n====================\n\n * bionic\n414e546  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * bootable/recovery\nc532be7  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * build/make\ndc36a72  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * frameworks/av\n82f93eb  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * frameworks/base\n57cacb9  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * frameworks/native\n0bd6e3f  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * frameworks/opt/net/wifi\n219d8ec  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * frameworks/opt/telephony\nc766403  Merge tag 'android-9.0.0_r37' into HEAD  [Josh Fox (XlxFoXxlX)]\n\n * hardware/interfaces\n8b66423  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * hardware/nxp/nfc\n87ab68c  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * hardware/qcom/audio\n76d18a0  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * packages/apps/DeskClock\n3fccddb  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * packages/apps/PackageInstaller\n9e43c56  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * packages/apps/Settings\n8805e80  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * packages/inputmethods/LatinIME\nda66f18  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * packages/services/Telecomm\n36916b1  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * packages/services/Telephony\na4db078  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * system/bt\na38a14b  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n * system/core\nc0f602d  usbd: Do not join the thread pool  [Badhri Jagan Sridharan]\nd1178b3  lmkd: bump process priority and set to FOREGROUND group before kill  [Wei Wang]\ncb513c7  Run BoringSSL self test during startup  [Branden Archer]\n\n * system/sepolicy\n5773a50  Merge tag 'android-9.0.0_r37' into p  [xyyx]\n\n====================\n     2019-05-06    \n====================\n\n====================\n     2019-05-05    \n====================\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/enchilada/Nitrogen-OS-P-enchilada-20190511.zip/download", 
+  "build_date": "20190711", 
+  "changelog": "====================\n     2019-07-11    \n====================\n\n====================\n     2019-07-10    \n====================\n\n====================\n     2019-07-09    \n====================\n\n====================\n     2019-07-08    \n====================\n\n====================\n     2019-07-07    \n====================\n * OTA\n5506717  violet update  [Dmitry Eliseev]\n9ba4443  X01BD: July patch update  [Jayant-Deshmukh]\n\n * frameworks/base\n895950a  Camera: Force HAL1 for predefined package list.  [Sai Kumar Sanagavarapu]\nee3056f  Camera: Simplify code for Aux/Mono white and black lists  [Paul Keith]\n2270a80  camera: Check if aux camera whitelist is set before restricting cameras  [Rashed Abdel-Tawab]\n08aadacc  Camera: Expose Aux camera to apps present in the whitelist  [Sauhard Pande]\n65e95c1  Merge tag 'android-9.0.0_r45' into p  [xyyx]\n\n * packages/apps/Settings\ne969131  AmbientDisplay: Add custom pref for devices with custom doze packages  [jhenrique09]\nba417f4  Add Dual Channel into Bluetooth Audio Channel Mode developer options menu  [ValdikSS]\n\n====================\n     2019-07-06    \n====================\n\n * prebuilts/clang/host/linux-x86\na8deb0b  Update prebuilt Clang to r353983e.  [Stephen Hines]\n9b9d17a  Update prebuilt Clang to r353983d.  [Nick Desaulniers]\n\n * vendor/nitrogen\n98b3de1  Ota: Add violet  [Max]\n\n====================\n     2019-07-05    \n====================\n * OTA\n5fbc0c2  add violet (RN7Pro)  [Dmitry Eliseev]\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/enchilada/Nitrogen-OS-P-enchilada-20190711.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-P-enchilada-20190511.zip", 
-  "filesize": "547201015", 
-  "md5": "aeee99a9c846683fdb08b1a635c7d6a6", 
+  "filename": "Nitrogen-OS-P-enchilada-20190711.zip", 
+  "filesize": "537928939", 
+  "md5": "a810306e18de550b9107aa1349509a5c", 
   "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
       "summary": "Magisk", 
       "title": "Magisk"
     }, 
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip", 
       "summary": "Magisk Uninstaller", 
       "title": "Magisk"
     }
   ], 
   "developer_url": "https://forum.xda-developers.com/member.php?u=9654073", 
   "website_url": "https://plus.google.com/communities/111037372581335961267", 
-  "developer": "Aditya Jadaun"
+  "developer": "AdiJadaun aka Aditya Jadaun"
 }
