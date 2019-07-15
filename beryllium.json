@@ -15,11 +15,11 @@
   "developer": "shahan_mik3",
   "developer_url": "https://forum.xda-developers.com/member.php?u=5162591",
   "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
-  "filename": "Nitrogen-OS-P-beryllium-20190614.zip",
-  "build_date": "20190614",
-  "filesize": "467934356",
-  "md5": "e648dfae7a89b72396ba32387332fb00",
-  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190614.zip/download",
-  "changelog": "==================== \nBrief Changelog for 14/06 \n====================\n\n*June Security patch\n*System UI fc should be fixed\n*Changes/fixes from beta builds\n*Upstream from nos\n*Upstream from los kernel\n",
+  "filename": "Nitrogen-OS-P-beryllium-20190715.zip",
+  "build_date": "20190715",
+  "filesize": "465432843",
+  "md5": "eb9c25c69c56dab06fd02ee60a001532",
+  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190715.zip/download",
+  "changelog": "========================= \nBrief Changelog for 14/07 \n=========================\n\n-July security patch\n-HEVC fixed\n-Prevent crash in TTS engine\n-Pocket lock improvements\n-Fixed system UI FC when using gaana app\n-Theme improvements\n-Switched to Clang 9.0.5\n-Updated focaltech touch driver\n-Kernel Update to Linux 4.9.185\n-Merged LA.UM.7.3.r1-07900-sdm845.0\n",
   "error": "false"
 }
