@@ -1,0 +1,25 @@
+{
+  "forum_url": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3949578", 
+  "build_date": "20190718", 
+  "changelog": "=========================\n     Changelog for 2019/07/18\n=========================\n\n-Add missing blobs\n-fix stereo recording\n-update dexpreopt\n-Fix constant-logical-operand warning in update_rq_clock_task\n-Fix overflow on large shift\n-Disable -Wshift-overflow\n-Add some Nitro kernel properties\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/tulip/Nitrogen-OS-P-tulip-20190718.zip/download", 
+  "filename": "Nitrogen-OS-P-tulip-20190718.zip", 
+  "filesize": "683596422", 
+  "error": "false", 
+  "donate_url": "https://goo.gl/41iI5i", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
+      "summary": "Magisk v19.3", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.2/MagiskManager-v7.3.2.apk", 
+      "summary": "Magisk Manager v7.3.2", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=9106315", 
+  "md5": "27c39c4646ee3e68fc5c7d8ea2cfe33c", 
+  "developer": "theglitchh"
+}
