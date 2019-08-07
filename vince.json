@@ -1,0 +1,24 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip"
+    }
+  ],
+  "developer": "prateekpunetha",
+  "developer_url": "https://forum.xda-developers.com/member.php?u=9362058",
+  "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-nitrogenos-t3952370",
+  "filename": "Nitrogen-OS-P-vince-20190807.zip",
+  "build_date": "20190807",
+  "filesize": "571394519",
+  "md5": "02ebf882c0498bf9af86c1be33bd3803",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-P-vince-20190807.zip/download",
+  "changelog": "====================\n    7 August 2019\n====================\n\n\u0442\u0410\u0432 Merged August Security Patches\n\u0442\u0410\u0432 Selinux Is Enforcing Now\n\u0442\u0410\u0432 Handle orientation and ScreenSize changes for TunerActivity\n\u0442\u0410\u0432 Rework navigation bar layout inversion logic\n\u0442\u0410\u0432 Use proper lock icon scale on dismissing notification panel\n\u0442\u0410\u0432 Offset battery circle frame by [-2.0f, 0]\n\u0442\u0410\u0432 Don't pad battery percent view when no battery icon shown\n\u0442\u0410\u0432 Set proper stroke when power saver is enabled\n\u0442\u0410\u0432 Adapt to AudioMix API changes in f/av audiopolicy\n\u0442\u0410\u0432 Increased Rounded  Corner Radius\n\u0442\u0410\u0432 Build with latest Dark Ages Kernel\n\u0442\u0410\u0432 Other Fixes and Improvements\n", 
+  "error": "false"
+}
