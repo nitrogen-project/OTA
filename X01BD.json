@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
-  "build_date": "20190707",
-  "changelog": "=========================\n     Changelog for 2019/07/07\n=========================\n\n*July security patch/n*Upstreamed Kernel to 4.4.184/n*Added USB Fastcharge in Zenfoneparts/n*GoogleCamera functional now\n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190707.zip/download",
+  "build_date": "20190810",
+  "changelog": "=========================\n     Changelog for 2019/08/11\n=========================\n\n*August security patch/n*Upstreamed Kernel to 4.4.188/n*GoogleCamera functional attached/n*GPS tag merged\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-P-X01BD-20190810.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-P-X01BD-20190707.zip",
-  "filesize": "615164966",
-  "md5": "5657640da0fc27f9af9684997fba53af",
+  "filename": "Nitrogen-OS-P-X01BD-20190810.zip",
+  "filesize": "620900295",
+  "md5": "0de2b32eaa73435fd9f90bcaea9ffda1",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
