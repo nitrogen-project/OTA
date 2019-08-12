@@ -15,11 +15,11 @@
   "developer": "shahan_mik3",
   "developer_url": "https://forum.xda-developers.com/member.php?u=5162591",
   "forum_url": "https://forum.xda-developers.com/poco-f1/development/rom-nitrogen-os-beta-t3857557",
-  "filename": "Nitrogen-OS-P-beryllium-20190715.zip",
-  "build_date": "20190715",
-  "filesize": "465432843",
-  "md5": "eb9c25c69c56dab06fd02ee60a001532",
-  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190715.zip/download",
-  "changelog": "========================= \nBrief Changelog for 14/07 \n=========================\n\n-July security patch\n-HEVC fixed\n-Prevent crash in TTS engine\n-Pocket lock improvements\n-Fixed system UI FC when using gaana app\n-Theme improvements\n-Switched to Clang 9.0.5\n-Updated focaltech touch driver\n-Kernel Update to Linux 4.9.185\n-Merged LA.UM.7.3.r1-07900-sdm845.0\n",
+  "filename": "Nitrogen-OS-P-beryllium-20190812.zip",
+  "build_date": "20190812",
+  "filesize": "465354542",
+  "md5": "7c834f8044d608b7855b1b4fb0963a05",
+  "url": "https://tinyurl.com/0tatest/Nitrogen-OS-P-beryllium-20190812.zip/download",
+  "changelog": "========================= \nBrief Changelog for 12/08\n=========================\n\n-August security patch\n-Fix Android auto\n-Fix system UI crash on disabling gaming mode\n-Fix toast on dark theme\n-Add nitrogen specific privapp permissions\n-Kernel Update to Linux 4.9.189\n-Upstream from nos\n",
   "error": "false"
 }
