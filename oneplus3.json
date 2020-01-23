@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654", 
+  "build_date": "20200123", 
+  "changelog": "====================\n     2020-01-23    \n====================\n * OTA\n2132993  Clean for 10  [xyyx]\n\n * build/make\n4e67c16  Generate properties for OTA  [xyyx]\n\n * packages/apps/Updates\n11eb166  Change path for 10  [xyyx]\n\n * vendor/nitrogen\n6ef8ce8  Uncomment OTA  [xyyx]\n\n====================\n     2020-01-22    \n====================\n\n====================\n     2020-01-21    \n====================\n\n====================\n     2020-01-20    \n====================\n\n====================\n     2020-01-19    \n====================\n\n====================\n     2020-01-18    \n====================\n\n====================\n     2020-01-17    \n====================\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10/Nitrogen-OS-10-oneplus3-20200123.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-OS-10-oneplus3-20200123.zip", 
+  "filesize": "599823044", 
+  "md5": "2bba8328fb0cd32278f4b181c5ce2a05", 
+  "donate_url": "https://goo.gl/41iI5i", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5422618", 
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/", 
+  "developer": "xyyx"
+}
