@@ -1,0 +1,25 @@
+{
+  "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-nitrogenos-t3972303", 
+  "build_date": "20200131", 
+  "changelog": "====================\n     2020-01-31    \n====================\n\n * prebuilts/openssl\n14f2252  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n * vendor/nitrogen\n384af91  Add Vince to OTA  [PrateekPunetha]\n\n====================\n     2020-01-30    \n====================\n\n====================\n     2020-01-29    \n====================\n * OTA\nf59274c  OTA: beryllium 29/01  [shahan-mik3]\n\n====================\n     2020-01-28    \n====================\n\n====================\n     2020-01-27    \n====================\n\n====================\n     2020-01-26    \n====================\n\n====================\n     2020-01-25    \n====================\n\n * vendor/nitrogen\n9553619  Add Beryllium to OTA  [xyyx]\n\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200131.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-OS-10-vince-20200131.zip", 
+  "filesize": "613380286", 
+  "md5": "8de8e58cd471b8d28ea6d07858ab0332", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=9362058", 
+  "website_url": "https://prateekpunetha.me/nos-10/", 
+  "developer": "Prateek Punetha"
+}
