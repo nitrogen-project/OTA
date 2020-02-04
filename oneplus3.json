@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654", 
-  "build_date": "20200123", 
-  "changelog": "====================\n     2020-01-23    \n====================\n * OTA\n2132993  Clean for 10  [xyyx]\n\n * build/make\n4e67c16  Generate properties for OTA  [xyyx]\n\n * packages/apps/Updates\n11eb166  Change path for 10  [xyyx]\n\n * vendor/nitrogen\n6ef8ce8  Uncomment OTA  [xyyx]\n\n====================\n     2020-01-22    \n====================\n\n====================\n     2020-01-21    \n====================\n\n====================\n     2020-01-20    \n====================\n\n====================\n     2020-01-19    \n====================\n\n====================\n     2020-01-18    \n====================\n\n====================\n     2020-01-17    \n====================\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10/Nitrogen-OS-10-oneplus3-20200123.zip/download", 
+  "build_date": "20200204", 
+  "changelog": "====================\n     2020-02-04    \n====================\n\n * build/make\n90a9fc4  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/av\n0dc1e97  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/base\n7c85830  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/native\nd0a60b4  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/opt/net/wifi\n6a19342  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * hardware/libhardware\n860abe0  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * packages/apps/Settings\nb1ac35c  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * packages/services/Telecomm\n9b2853e  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n====================\n     2020-02-03    \n====================\n\n====================\n     2020-02-02    \n====================\n\n====================\n     2020-02-01    \n====================\n * OTA\n359e968  OTA: Vince: 31/01 Oh Yeah! Signed-off-by: PrateekPunetha <prateekpunetha@gmail.com>  [PrateekPunetha]\n\n====================\n     2020-01-31    \n====================\n\n====================\n     2020-01-30    \n====================\n * OTA\nf59274c  OTA: beryllium 29/01  [shahan-mik3]\n\n====================\n     2020-01-29    \n====================\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10/Nitrogen-OS-10-oneplus3-20200204.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-10-oneplus3-20200123.zip", 
-  "filesize": "599823044", 
-  "md5": "2bba8328fb0cd32278f4b181c5ce2a05", 
+  "filename": "Nitrogen-OS-10-oneplus3-20200204.zip", 
+  "filesize": "599829673", 
+  "md5": "74432a9d68a42f9d07a03296b5145e7e", 
   "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
