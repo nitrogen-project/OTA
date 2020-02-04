@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-nitrogenos-t3972303", 
-  "build_date": "20200131", 
-  "changelog": "====================\n     2020-01-31    \n====================\n\n * prebuilts/openssl\n14f2252  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n * vendor/nitrogen\n384af91  Add Vince to OTA  [PrateekPunetha]\n\n====================\n     2020-01-30    \n====================\n\n====================\n     2020-01-29    \n====================\n * OTA\nf59274c  OTA: beryllium 29/01  [shahan-mik3]\n\n====================\n     2020-01-28    \n====================\n\n====================\n     2020-01-27    \n====================\n\n====================\n     2020-01-26    \n====================\n\n====================\n     2020-01-25    \n====================\n\n * vendor/nitrogen\n9553619  Add Beryllium to OTA  [xyyx]\n\n",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200131.zip/download", 
+  "build_date": "20200204", 
+  "changelog": "====================\n     2020-02-04    \n====================\n\n * build/make\n90a9fc4  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/av\n0dc1e97  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/base\n7c85830  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/native\nd0a60b4  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * frameworks/opt/net/wifi\n6a19342  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * hardware/libhardware\n860abe0  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * packages/apps/Settings\nb1ac35c  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * packages/services/Telecomm\n9b2853e  Merge tag 'android-10.0.0_r29' into 10  [xyyx]\n\n * prebuilts/openssl\nbcdc5c6  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n * vendor/nitrogen\n3313160  Add Vince to OTA  [PrateekPunetha]\n\n====================\n     2020-02-03    \n====================\n\n====================\n     2020-02-02    \n====================\n\n====================\n     2020-02-01    \n====================\n * OTA\n359e968  OTA: Vince: 31/01 Oh Yeah! Signed-off-by: PrateekPunetha <prateekpunetha@gmail.com>  [PrateekPunetha]\n\n====================\n     2020-01-31    \n====================\n\n====================\n     2020-01-30    \n====================\n\n====================\n     2020-01-29    \n====================\n * OTA\nf59274c  OTA: beryllium 29/01  [shahan-mik3]\n\n",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200204.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-10-vince-20200131.zip", 
-  "filesize": "613380286", 
-  "md5": "8de8e58cd471b8d28ea6d07858ab0332", 
+  "filename": "Nitrogen-OS-10-vince-20200204.zip", 
+  "filesize": "613333459",
+  "md5": "df354a4ce7cf5efa3efe87b1afebb985",
   "addons": [
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
