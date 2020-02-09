@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770", 
+  "build_date": "20200126", 
+  "changelog": "====================\n     2020-01-26    \n====================",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200126.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-OS-10-X01BD-20200126.zip", 
+  "filesize": "670564352", 
+  "md5": "6443447012867a3581fb5969c430ced7", 
+  "donate_url": "https://goo.gl/41iI5i", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?s=ee76e7be0e3f45bef9b11013f61c37c3&u=8276928", 
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/", 
+  "developer": "Jayant Deshmukh"
+}
