@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/mi-a1/development/10-0-nitrogenos-t4050903", 
+  "build_date": "20200224", 
+  "changelog": "====================\n     2020-02-24    \n====================\n\n*Shipped with twrp \n*Mi Sound Enhancher is back",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/tissot/Nitrogen-OS-tissot-20200224.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-OS-10-tissot-20200224.zip", 
+  "filesize": "585065714", 
+  "md5": "74250cc3ed2652c41de47669ee8b966c", 
+  "donate_url": "https://goo.gl/41iI5i", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?s=ee76e7be0e3f45bef9b11013f61c37c3&u=8276928", 
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/tissot/", 
+  "developer": "Jayant Deshmukh"
+}
