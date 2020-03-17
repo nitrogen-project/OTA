@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/mi-a1/development/10-0-nitrogenos-t4050903", 
-  "build_date": "20200224", 
-  "changelog": "====================\n     2020-02-24    \n====================\n\n*Shipped with twrp \n*Mi Sound Enhancher is back",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/tissot/Nitrogen-OS-tissot-20200224.zip/download", 
+  "build_date": "20200317", 
+  "changelog": "====================\n     2020-03-17    \n====================\n\n*March security patch \n*Shipped with twrp \n*Mi Sound Enhancher is back \n*Auto brightness toggle added",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/tissot/Nitrogen-OS-tissot-20200316.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-10-tissot-20200224.zip", 
-  "filesize": "585065714", 
-  "md5": "74250cc3ed2652c41de47669ee8b966c", 
+  "filename": "Nitrogen-OS-10-tissot-20200316.zip", 
+  "filesize": "601315187", 
+  "md5": "b41658845fe966a75e43b21a90746f5a", 
   "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
