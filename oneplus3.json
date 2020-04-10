@@ -1,26 +1,26 @@
 {
-  "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654", 
-  "build_date": "20200408", 
-  "changelog": "====================\n     2020-04-08    \n====================\n\n====================\n     2020-04-07    \n====================\n\n====================\n     2020-04-06    \n====================\n\n====================\n     2020-04-05    \n====================\n\n====================\n     2020-04-04    \n====================\n\n====================\n     2020-04-03    \n====================\n\n====================\n     2020-04-02    \n====================\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/Nitrogen-OS-10-oneplus3-20200408.zip/download", 
-  "error": "false", 
-  "filename": "Nitrogen-OS-10-oneplus3-20200408.zip", 
-  "filesize": "597804627", 
-  "md5": "b21a5ab1e528162057e49f061c9d430b", 
-  "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
-      "summary": "Magisk", 
-      "title": "Magisk"
-    }, 
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip"
+    },
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
-      "summary": "Magisk Uninstaller", 
-      "title": "Magisk"
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
     }
-  ], 
-  "developer_url": "https://forum.xda-developers.com/member.php?u=5422618", 
-  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/", 
-  "developer": "xyyx"
+  ],
+  "donate_url": "https://goo.gl/41iI5i",
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/",
+  "developer": "xyyx",
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5422618",
+  "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654",
+  "filename": "Nitrogen-OS-10-oneplus3-20200410.zip",
+  "build_date": "20200410",
+  "filesize": "625363979",
+  "md5": "412afaae95f913c5b45cc9f94ba24343",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/Nitrogen-OS-10-oneplus3-20200410.zip/download",
+  "changelog": "====================\n     2020-04-10    \n====================\n\n * frameworks/base\nc1ec720  HAX: do not use googles shite bypass lockscreen view  [Ethan Halsall]\n94a8424  [3/4] Port face unlock feature  [jhenrique09]\n\n * packages/apps/Settings\n84c7b3d  [4/4] Port face unlock feature  [jhenrique09]\n\n * vendor/nitrogen\n43c843f  2/4] Port face unlock feature  [jhenrique09]\n\n====================\n     2020-04-09    \n====================\n * OTA\n4ed53b2  OTA: beryllium 09/04  [shahan-mik3]\n\n====================\n     2020-04-08    \n====================\n * OTA\n2ba48fe  op3: Update  [xyyx]\n\n * build/make\n4c4208b  Merge tag 'android-10.0.0_r33' into 10  [xyyx]\n\n * frameworks/av\n7d3782a  Merge tag 'android-10.0.0_r33' into 10  [xyyx]\n\n * frameworks/base\ndce16ea  Merge tag 'android-10.0.0_r33' into 10  [xyyx]\n\n * hardware/qcom/media\nf07d72b  Merge tag 'android-10.0.0_r33' into 10  [xyyx]\n\n * packages/apps/Settings\ncc8084d  Merge tag 'android-10.0.0_r33' into 10  [xyyx]\n\n====================\n     2020-04-07    \n====================\n\n * external/motorola/faceunlock\n6b03cdf  Automatic translation import  [jhenrique09]\n\n====================\n     2020-04-06    \n====================\n\n====================\n     2020-04-05    \n====================\n\n * external/motorola/faceunlock\nf79c7fe  faceunlock: Import blobs  [jhenrique09]\n\n====================\n     2020-04-04    \n====================\n\n * external/motorola/faceunlock\nc3ea72e  Initial empty repo  [Henrique Silva]\n\n",
+  "error": "false"
 }
