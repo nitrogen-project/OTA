@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770", 
-  "build_date": "20200126", 
-  "changelog": "====================\n     2020-01-26    \n====================",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200126.zip/download", 
+  "build_date": "20200418", 
+  "changelog": "====================\n     2020-04-18    \n====================\n April security patch.\n Enforcing selinux.\n Battery icon tuner added.\n Updated device side stuff.\n Find more yourself",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200418.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-10-X01BD-20200126.zip", 
-  "filesize": "670564352", 
-  "md5": "6443447012867a3581fb5969c430ced7", 
+  "filename": "Nitrogen-OS-10-X01BD-20200418.zip", 
+  "filesize": "633800000", 
+  "md5": "abe3b8ecc026c00c6f76b3af944f804d", 
   "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
