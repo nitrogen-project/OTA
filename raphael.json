@@ -1,0 +1,26 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
+    }
+  ],
+  "donate_url": "https://goo.gl/41iI5i",
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/raphael/",
+  "developer": "VladV1V",
+  "developer_url": "https://forum.xda-developers.com/member.php?u=9044307",
+  "forum_url": "https://forum.xda-developers.com/k20-pro/development/rom-nitrogen-os-beta-t4085805",
+  "filename": "Nitrogen-OS-10-raphael-20200420.zip",
+  "build_date": "20200420",
+  "filesize": "925663960",
+  "md5": "d2b1ad211809acbcd157d8a75f83712b",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/raphael/Nitrogen-OS-10-raphael-20200420.zip/download",
+  "changelog": "====================\n     2020-04-20    \n====================\n234ab08  Screen off FOD [1/3] Well technically screen is still turned on ( AOD ) so its kinda cheating but it works as expected since on OLED pixels displaying #000 are turned off  [00day0]\n177cc0e  base: Add three-fingers-swipe to screenshot [1/2]  [ghbhaha]\n10b11a7  frameworks/base: Support for third party NFC features and extensions  [Puneet Mishra]\n6dcab7b  core: Add camera intents for camera state  [TheScarastic]\nb439e79  SystemUI: Add BlueFirework recognizing FP animation [1/2]  [Hxmg]\n4353dc5  FODCircleView: cleanup FOD customization techniques  [Nauval Rizky]\n88bb921  SystemUI: Recognizing FP animation effects [1/2]  [Joey Huab]\n8f75558  FODCircleView: Recognizing fingerprint animation [1/2]  [00day0]\n2d60919  FODCircleView: FOD pressed state [1/2]  [Stallix]\n14cc53d  SystemUI: Add more FOD icons [1/2]  [Joey Huab]\nc0d7c43  SystemUI: FOD icon picker [1/2]  [00day0]\nce9d1c4  FODCircleView: fix incorrect position on keyguard  [00day0]\nbdbd2d5  FODCircleView: Add MIUI FP icon  [TheScarastic]\n4d690ca  FODCircleView: Patch screen flickering  [TheScarastic]\n62ce33f  FODCircleView: Add partial wakelock on aod  [TheScarastic]\nb628baf  KeyguardView: report transiting bouncer as shown  [Demon000]\n1c7322f  FODCircleView: rewrite and simplify implementation  [Demon000]\n5a8e6fb  FODCircleView: place above other UI elements  [Demon000]\na302457  fw/b: Fix systemui tests with in-display fingerprint  [Sam Mortimer]\nfeb3f1e  FODCircleView: defer removal to next re-layout  [Peter Cai]\n14dd01a  Initial support for in-display fingerprint sensors  [Peter Cai]\n4d5cdec  Screen off FOD [3/3]  [00day0]\nbafaf2f  fixes  [VladV1V]\naaee3dd  Evolution: Add BlueFirework recognizing FP animation [2/2]  [Hxmg]\nc84d352  Xtended: Recognizing FP animation effects [2/2]  [Joey Huab]\n14c6d77  Xtended: Recognizing fingerprint animation [2/2]  [00day0]\nbd6ca53  Xtensions: FOD pressed state [2/2]  [Joey Huab]\n12a0b32  Xtensions: Add more FOD icons [2/2]  [Stallix]\n874f957  Xtensions: FOD icon picker [2/2]  [00day0]\nedf5f8a  Screen off FOD [2/3]  [00day0]\n74acdbd  Settings: Add three-fingers-swipe to screenshot [2/2]  [ghbhaha]\n\n====================\n     2020-04-19    \n====================\n0f34fcb  OTA: nitrogen_raphael  [Max]\n\n====================\n     2020-04-18    \n====================\n78051b8  OTA: X01BD 18/04/2020  [Jayant Deshmukh]\n4a849c6  op3: test build  [xyyx]\n979432f  Battery: add dotted circle style (1/2)  [xyyx]\n59b136f  Revert \"Fix deletion of VkSemaphores in VulkanManager.\"  [xyyx]\n3ae7d5b  fixup! SystemUI: Bring back good ol' circle battery style  [LuK1337]\neac432d  SystemUI: Bring back good ol' circle battery style  [Luca Stefani]\n2aa8a2e  Battery: add dotted circle style (2/2)  [xyyx]\n5f6670e  BatterySettings: Move to androidx  [xyyx]\n799dc8d  BatteryMeterDrawable: add text style (2/2)  [Danesh M]\n5f540ab  Forward Port Battery Styles  [Sven Dawitz]\n\n====================\n     2020-04-17    \n====================\nccf4110  Implement battery percent styles (2/2)  [Danesh M]\n9ba5764  Changelog: don't use repo for dir walking  [DennySPB]\n\n====================\n     2020-04-16    \n====================\n\n====================\n     2020-04-15    \n====================\n\n====================\n     2020-04-14    \n====================\n35fc575  base: use bypassEnabledBiometric consistently  [Ethan Halsall]\n\n",
+  "error": "false"
+}
