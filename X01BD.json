@@ -1,25 +1,25 @@
 {
   "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770", 
-  "build_date": "20200418", 
-  "changelog": "====================\n     2020-04-18    \n====================\n April security patch.\n Enforcing selinux.\n Battery icon tuner added.\n Updated device side stuff.\n Find more yourself",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200418.zip/download", 
-  "error": "false", 
-  "filename": "Nitrogen-OS-10-X01BD-20200418.zip", 
-  "filesize": "633800000", 
-  "md5": "abe3b8ecc026c00c6f76b3af944f804d", 
-  "donate_url": "https://goo.gl/41iI5i", 
+  "build_date": "20200614",
+  "changelog": "====================\n     2020-06-14    \n====================\n June security patch.\n Enforcing selinux.\n Updated device side stuff.\n Changed kernel.\n Find more yourself",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200614.zip/download",
+  "error": "false",
+  "filename": "Nitrogen-OS-10-X01BD-20200614.zip",
+  "filesize": "636679824",
+  "md5": "f55b5eb271f0b754459efbc0516769fe",
+  "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
-      "summary": "Magisk", 
+      "summary": "Magisk",
       "title": "Magisk"
-    }, 
+    },
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
-      "summary": "Magisk Uninstaller", 
+      "summary": "Magisk Uninstaller",
       "title": "Magisk"
     }
-  ], 
+  ],
   "developer_url": "https://forum.xda-developers.com/member.php?s=ee76e7be0e3f45bef9b11013f61c37c3&u=8276928", 
   "website_url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/", 
   "developer": "Jayant Deshmukh"
