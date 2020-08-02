@@ -1,26 +1,26 @@
 {
-  "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770", 
-  "build_date": "20200614",
-  "changelog": "====================\n     2020-06-14    \n====================\n June security patch.\n Enforcing selinux.\n Updated device side stuff.\n Changed kernel.\n Find more yourself",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200614.zip/download",
+  "forum_url": "https://forum.xda-developers.com/max-pro-m2/development/stable-nitrogen-os-enforcing-t3923770",
+  "build_date": "20200802",
+  "changelog": "====================\n     2020-08-02    \n====================\n July security patch.\n Fixed not booting on pie firmware.\n Included dirac.\n Kernel upstream",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/Nitrogen-OS-10-X01BD-20200802.zip/download",
   "error": "false",
-  "filename": "Nitrogen-OS-10-X01BD-20200614.zip",
-  "filesize": "636679824",
-  "md5": "f55b5eb271f0b754459efbc0516769fe",
+  "filename": "Nitrogen-OS-10-X01BD-20200802.zip",
+  "filesize": "645046367",
+  "md5": "b5c4bae21db9f4a9005ae22214e30aef",
   "donate_url": "https://goo.gl/41iI5i",
   "addons": [
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip",
       "summary": "Magisk",
       "title": "Magisk"
     },
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip",
       "summary": "Magisk Uninstaller",
       "title": "Magisk"
     }
   ],
-  "developer_url": "https://forum.xda-developers.com/member.php?s=ee76e7be0e3f45bef9b11013f61c37c3&u=8276928", 
-  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/", 
+  "developer_url": "https://forum.xda-developers.com/member.php?s=ee76e7be0e3f45bef9b11013f61c37c3&u=8276928",
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/X01BD/",
   "developer": "Jayant Deshmukh"
 }
