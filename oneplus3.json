@@ -16,11 +16,11 @@
   "developer": "xyyx",
   "developer_url": "https://forum.xda-developers.com/member.php?u=5422618",
   "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654",
-  "filename": "Nitrogen-OS-10-oneplus3-20200707.zip",
-  "build_date": "20200707",
-  "filesize": "625289206",
-  "md5": "715d1746cfde7aea5268fb6580880f43",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/Nitrogen-OS-10-oneplus3-20200707.zip/download",
-  "changelog": "====================\n     2020-07-07    \n====================\n\n* build/make\n183753c  Merge tag 'android-10.0.0_r40' into 10  [xyyx]\n\n* frameworks/native\n3a9fa02  Merge tag 'android-10.0.0_r40' into 10  [xyyx]\n\n* packages/services/Telephony\n682a862  Merge tag 'android-10.0.0_r40' into 10  [xyyx]\n\n====================\n     2020-07-06    \n====================\n\n* device/oneplus/oneplus3\ne4cb609  Add speaker and bt-sco combo device  [xyyx]\n\n====================\n     2020-07-05    \n====================\n\n====================\n     2020-07-04    \n====================\n\n====================\n     2020-07-03    \n====================\n\n====================\n     2020-07-02    \n====================\n\n====================\n     2020-07-01    \n====================\n\n",
+  "filename": "Nitrogen-OS-10-oneplus3-20200804.zip",
+  "build_date": "20200804",
+  "filesize": "624171622",
+  "md5": "03f913c0e8ba08edf9cae8463488a25c",
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/Nitrogen-OS-10-oneplus3-20200804.zip/download",
+  "changelog": "====================\n     2020-08-04    \n====================\n\n* build/make\nd4bb61e  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/av\nc3b6041  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/base\n17139c8  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/apps/Settings\nca6208d  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/services/Telephony\n747b915  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n====================\n     2020-08-03    \n====================\n\n====================\n     2020-08-02    \n====================\n\n* OTA\n69a4810  OTA: X01BD 02/08/2020  [Jayant-Deshmukh]\n\n====================\n     2020-08-01    \n====================\n\n====================\n     2020-07-31    \n====================\n\n* device/oneplus/oneplus3\nc81eb6c  op3: Rollback to stock GPS blobs and disable QC location  [dianlujitao]\n6006e09  op3: Checkout pie gps config  [dianlujitao]\n0d8fbe6  op3: Fix build errors with libgps.utils.so  [Divya Sharma]\nc5ef3c7  op3: Downgrade GNSS HAL to LA.UM.7.5.r1-03100-8x96.0  [dianlujitao]\nf2d08e7  Revert \"op3: Update GPS configutation from LA.UM.8.6.r1-01900-89xx.0\"  [dianlujitao]\n87b791f  Revert \"Revert \"op3: Add gnsspps from LA.UM.7.5.r1-03100-8x96.0\"\"  [dianlujitao]\nbfb0787  Revert \"op3: Build new GNSS HAL\"  [dianlujitao]\n\n* vendor/oneplus\nf5a55cc  op3: Switch back to pie gps blobs  [dianlujitao]\n\n====================\n     2020-07-30    \n====================\n\n====================\n     2020-07-29    \n====================\n\n",
   "error": "false"
 }
