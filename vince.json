@@ -1,12 +1,12 @@
 {
-  "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-nitrogenos-t3972303/", 
-  "build_date": "20200707", 
-  "changelog": "====================\n     2020-07-07    \n====================\n\n* OTA\n1642e2a  op3: July  [xyyx]\n\n* build/make\n183753c  Merge tag 'android-10.0.0_r40' into 10  [xyyx]\n\n* frameworks/native\n3a9fa02  Merge tag 'android-10.0.0_r40' into 10  [xyyx]\n\n* packages/services/Telephony\n682a862  Merge tag 'android-10.0.0_r40' into 10  [xyyx]\n\n* prebuilts/openssl\n841fcee  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n====================\n     2020-07-06    \n====================\n\n* device/oneplus/oneplus3\ne4cb609  Add speaker and bt-sco combo device  [xyyx]\n\n====================\n     2020-07-05    \n====================\n\n====================\n     2020-07-04    \n====================\n\n====================\n     2020-07-03    \n====================\n\n====================\n     2020-07-02    \n====================\n\n====================\n     2020-07-01    \n====================\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200707.zip/download", 
+  "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-nitrogenos-t3972303", 
+  "build_date": "20200806", 
+  "changelog": "====================\n     2020-08-06    \n====================\n\n* prebuilts/openssl\n08a3d33  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n====================\n     2020-08-05    \n====================\n\n====================\n     2020-08-04    \n====================\n\n* OTA\nb175827  op3: august  [xyyx]\n\n* build/make\nd4bb61e  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/av\nc3b6041  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/base\n17139c8  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/apps/Settings\nca6208d  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/services/Telephony\n747b915  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n====================\n     2020-08-03    \n====================\n\n====================\n     2020-08-02    \n====================\n\n* OTA\n69a4810  OTA: X01BD 02/08/2020  [Jayant-Deshmukh]\n\n====================\n     2020-08-01    \n====================\n\n====================\n     2020-07-31    \n====================\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200806.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-10-vince-20200707.zip", 
-  "filesize": "639157349", 
-  "md5": "9e98b4dfda9a3200a0fd7aa3e82a98fe", 
+  "filename": "Nitrogen-OS-10-vince-20200806.zip", 
+  "filesize": "638982311", 
+  "md5": "8278f95d9b1ec499f58ec9fccc708948", 
   "addons": [
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
@@ -20,6 +20,6 @@
     }
   ], 
   "developer_url": "https://forum.xda-developers.com/member.php?u=9362058", 
-  "website_url": "https://prateekpunetha.me/nos-10/", 
+  "website_url": "https://prateekpunetha.me/nos-10", 
   "developer": "Prateek Punetha"
 }
