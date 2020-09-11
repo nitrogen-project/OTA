@@ -1,26 +1,26 @@
 {
+  "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654", 
+  "build_date": "20200911", 
+  "changelog": "====================\n     2020-09-11    \n====================\n\n* build/make\n4d1a48c  Update Security String to 2019-09-05 Bug: 137199979 (cherry picked from commit ac6e24e5b1885981dfbc2297646aac9e29c37060)  [Elisa Pascual Trevino]\ndb5d06d  Version bump to QP1A.190711.019 [core/build_id.mk]  [android-build-team Robot]\n\n* external/motorola/faceunlock\nc53f4c2  Automatic translation import  [jhenrique09]\n\n* frameworks/av\nc350f31  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* frameworks/base\n87da1d7  Mark implicit PendingIntents as immutable  [Steve Elliott]\nee42850  Tests no screenshot is copied when user consent timed out  [Rhed Jao]\nb7111a1  Make view intent immutable  [Beth Thibodeau]\n1a39dd6  Remove unused intent in NFW notification  [Yu-Han Yang]\n\n* frameworks/native\n3bdb4e3  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* frameworks/opt/net/wifi\nfd68813  [Passpoint] Remove R2 broadcasts  [Hai Shalom]\n\n* frameworks/opt/telephony\n8aa0b68  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* packages/apps/Contacts\nf3d6f3b  Merge tag 'android-10.0.0_r46' into HEAD  [xyyx]\n\n* packages/apps/Dialer\nd7a8900  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* packages/apps/Settings\n453ed79  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* packages/services/Telephony\n4164b95  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* system/core\n8d7ad4d  libutils: check vsnprintf error  [Steven Moreland]\na750a58  String16::remove - avoid overflow  [Steven Moreland]\n\n* system/sepolicy\nb7253bd  Don't give uid-based categories to app_zygote and isolated processes.  [Martijn Coenen]\n\n====================\n     2020-09-10    \n====================\n\n====================\n     2020-09-09    \n====================\n\n* external/motorola/faceunlock\nf3fb331  Automatic translation import  [jhenrique09]\n\n====================\n     2020-09-08    \n====================\n\n* external/motorola/faceunlock\n64ce698  Update prebuilt apk  [jhenrique09]\n\n====================\n     2020-09-07    \n====================\n\n====================\n     2020-09-06    \n====================\n\n====================\n     2020-09-05    \n====================\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/Nitrogen-OS-10-oneplus3-20200911.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-OS-10-oneplus3-20200911.zip", 
+  "filesize": "624296616", 
+  "md5": "dc6bb8f8646587a311def300c19bb416", 
+  "donate_url": "https://goo.gl/41iI5i", 
   "addons": [
     {
-      "title": "Magisk",
-      "summary": "Magisk",
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip"
-    },
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
     {
-      "title": "Magisk",
-      "summary": "Magisk Uninstaller",
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
     }
-  ],
-  "donate_url": "https://goo.gl/41iI5i",
-  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/",
-  "developer": "xyyx",
-  "developer_url": "https://forum.xda-developers.com/member.php?u=5422618",
-  "forum_url": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-nitrogen-os-beta-t3737654",
-  "filename": "Nitrogen-OS-10-oneplus3-20200808.zip",
-  "build_date": "20200808",
-  "filesize": "624172112",
-  "md5": "9c09de4567dc2dd2a5df7898009380d2",
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/Nitrogen-OS-10-oneplus3-20200808.zip/download",
-  "changelog": "====================\n     2020-08-08    \n====================\n\n====================\n     2020-08-07    \n====================\n\n* device/oneplus/oneplus3\n6c5ed6c  Revert \"props: use vulkan as default renderer\"  [xyyx]\n\n====================\n     2020-08-06    \n====================\n\n====================\n     2020-08-05    \n====================\n\n====================\n     2020-08-04    \n====================\n\n* OTA\nb175827  op3: august  [xyyx]\n\n* build/make\nd4bb61e  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/av\nc3b6041  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/base\n17139c8  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/apps/Settings\nca6208d  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/services/Telephony\n747b915  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n====================\n     2020-08-03    \n====================\n\n====================\n     2020-08-02    \n====================\n\n* OTA\n69a4810  OTA: X01BD 02/08/2020  [Jayant-Deshmukh]\n\n",
-  "error": "false"
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5422618", 
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/10.0/", 
+  "developer": "xyyx"
 }
