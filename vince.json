@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-nitrogenos-t3972303", 
-  "build_date": "20200806", 
-  "changelog": "====================\n     2020-08-06    \n====================\n\n* prebuilts/openssl\n08a3d33  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n====================\n     2020-08-05    \n====================\n\n====================\n     2020-08-04    \n====================\n\n* OTA\nb175827  op3: august  [xyyx]\n\n* build/make\nd4bb61e  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/av\nc3b6041  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* frameworks/base\n17139c8  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/apps/Settings\nca6208d  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n* packages/services/Telephony\n747b915  Merge tag 'android-10.0.0_r41' into 10  [xyyx]\n\n====================\n     2020-08-03    \n====================\n\n====================\n     2020-08-02    \n====================\n\n* OTA\n69a4810  OTA: X01BD 02/08/2020  [Jayant-Deshmukh]\n\n====================\n     2020-08-01    \n====================\n\n====================\n     2020-07-31    \n====================\n\n", 
-  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200806.zip/download", 
+  "build_date": "20200916", 
+  "changelog": "====================\n     2020-09-16    \n====================\n\n====================\n     2020-09-15    \n====================\n\n* prebuilts/openssl\n3a721e7  Revert \"Move linux libs to their version names\"  [PrateekPunetha]\n\n====================\n     2020-09-14    \n====================\n\n* OTA\n639848d  Vince: Update Base Url  [prateekpunetha]\n\n====================\n     2020-09-13    \n====================\n\n====================\n     2020-09-12    \n====================\n\n* OTA\na29241b  op3: September  [xyyx]\n\n* build/make\n4d1a48c  Update Security String to 2019-09-05 Bug: 137199979 (cherry picked from commit ac6e24e5b1885981dfbc2297646aac9e29c37060)  [Elisa Pascual Trevino]\ndb5d06d  Version bump to QP1A.190711.019 [core/build_id.mk]  [android-build-team Robot]\n\n* frameworks/av\nc350f31  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* frameworks/base\n87da1d7  Mark implicit PendingIntents as immutable  [Steve Elliott]\nee42850  Tests no screenshot is copied when user consent timed out  [Rhed Jao]\nb7111a1  Make view intent immutable  [Beth Thibodeau]\n1a39dd6  Remove unused intent in NFW notification  [Yu-Han Yang]\n\n* frameworks/native\n3bdb4e3  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* frameworks/opt/net/wifi\nfd68813  [Passpoint] Remove R2 broadcasts  [Hai Shalom]\n\n* frameworks/opt/telephony\n8aa0b68  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* packages/apps/Dialer\nd7a8900  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* packages/apps/Settings\n453ed79  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* packages/services/Telephony\n4164b95  Merge tag 'android-10.0.0_r46' into 10  [xyyx]\n\n* system/core\n8d7ad4d  libutils: check vsnprintf error  [Steven Moreland]\na750a58  String16::remove - avoid overflow  [Steven Moreland]\n\n====================\n     2020-09-11    \n====================\n\n* external/motorola/faceunlock\nc53f4c2  Automatic translation import  [jhenrique09]\n\n====================\n     2020-09-10    \n====================\n\n* external/motorola/faceunlock\nf3fb331  Automatic translation import  [jhenrique09]\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/vince/Nitrogen-OS-10-vince-20200916.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-OS-10-vince-20200806.zip", 
-  "filesize": "638982311", 
-  "md5": "8278f95d9b1ec499f58ec9fccc708948", 
+  "filename": "Nitrogen-OS-10-vince-20200916.zip", 
+  "filesize": "639080708", 
+  "md5": "6f23dcb1289a7e1fcd7239fef7677136", 
   "addons": [
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
@@ -20,6 +20,6 @@
     }
   ], 
   "developer_url": "https://forum.xda-developers.com/member.php?u=9362058", 
-  "website_url": "https://prateekpunetha.dev/nos-10", 
+  "website_url": "https://prateekpunetha.dev/nos-10/", 
   "developer": "Prateek Punetha"
 }
