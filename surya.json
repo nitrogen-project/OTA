@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-nitrogen-os-beta-t4173237?goto=newpost", 
+  "build_date": "20201012", 
+  "changelog": "====================\n     2020-10-12    \n====================\n\n* device/xiaomi/surya\n226ee7c  surya: Fix bt hal and light hal denies  [xyyx]\nfbfd262  surya: sepolicy: Address healthd denials  [Peter Cai]\n125793e  berkeley: allow platform_app to search for nfc_service  [Vachounet]\n\n* vendor/nitrogen\nfe13e9f  ota: add surya  [xyyx]\n\n====================\n     2020-10-11    \n====================\n\n* device/xiaomi/surya\nf365e50  Import audio policy from LineageOS/android_device_xiaomi_sm6150-common  [xyyx]\n\n====================\n     2020-10-10    \n====================\n\n* device/xiaomi/surya\nf70a8a1  init: workaround SafetyNet check  [Park Ju Hyung]\nd0d2d3b  surya: Update power profile xml  [Manolo]\n05a1a78  surya: Fix double tap to wake node  [xyyx]\n47f3fd2  overlay: extract brightness values from MIUI and tune low values  [xyyx]\ndaaaea2  parts: Fix refresh rate values  [xyyx]\n\n* system/core\n6193ef1  init: Weaken property override security for the init  extension  [Alex Naidis]\n\n* system/extras\n66329cf  Remove AOSP su implementation  [Lars Greiss]\n\n====================\n     2020-10-09    \n====================\n\n* device/xiaomi/surya\n42d790c  Revert \"phoenix: light: Drop support for adjustable breathing\"  [xyyx]\n\n====================\n     2020-10-08    \n====================\n\n* device/xiaomi/surya\nf67f2c6  surya: Sync product and system size with Global_V12.0.2.0.QJGMIXM  [xyyx]\n044a829  surya: Enable call recording  [Danny Baumann]\n530ffc1  SafetyNet: try to fix  [xyyx]\neda2ce2  XiaomiParts: fix main screen style and remove divider  [xyyx]\n9347c39  surya: Use stock cameraservice  [xyyx]\n32ec22a  parts: RU  [xyyx]\n\n* vendor/xiaomi\n97a1ccd  surya: Add stock cameraservice  [xyyx]\n\n====================\n     2020-10-07    \n====================\n\n* device/xiaomi/surya\n5e06801  overlay: Define config_vendorPlatformSignatures  [xyyx]\n834f80f  Init Nitrogen surya tree  [xyyx]\n\n* frameworks/av\nf889570  camera: Allow to use boottime as timestamp reference  [maxwen]\n\n* packages/apps/NitrogenSettings\nc2ffd63  Add to main menu LOS DeviceParts if available  [xyyx]\n\n* vendor/nitrogen\ncee40fb  vendor: Add soong variable for TARGET_CAMERA_BOOTTIME_TIMESTAMP  [jhenrique09]\n\n* vendor/xiaomi\n956638e  surya: Kang libvolumelistener from guacamole  [Peter Cai]\n\n====================\n     2020-10-06    \n====================\n\n* build/make\n6d2af59  backuptool: do not unmap dynamic partition after finished  [Jesse Chan]\n3ff6815  releasetools: support dynamic partitions for backuptool  [Jesse Chan]\n22c6e05  Generate block based OTA for product partitions  [Tianjie Xu]\n\n* frameworks/av\nabe1b11  camera: Only link and use vendor.qti.hardware.camera.device if specified  [Rashed Abdel-Tawab]\nffa9e8d  Camera: Miscellaneous fixes in QDataCallback and binder death scenarios.  [Mounika Reddy Tangirala]\n686d8ae  Camera: CameraHardwareInterface changes to support Extended FD  [Sauhard Pande]\n\n* frameworks/base\ncc722ac  PackageManager: Add configuration to specify vendor platform signatures  [Ethan Chen]\n30d7954  permissions: Add missed for our features  [xyyx]\n\n* hardware/interfaces\n425c875  camera: Only link and use vendor.qti.hardware.camera.device if specified  [Rashed Abdel-Tawab]\n7aad98f  Camed HAL extension: Added support in HIDL for Extended FD.  [Sauhard Pande]\n\n* vendor/xiaomi\n7991dea  Patch qti-telephony-common.jar  [xyyx]\n242d524  surya: update ims from LA.UM.8.9.r1-08300-SM6xx.0  [Akhil Narang]\nc7f5067  Init from V12.0.2.0.QJGMIXM  [xyyx]\n\n", 
+  "url": "https://sourceforge.net/projects/nitrogen-project/files/surya/10.0/Nitrogen-OS-10-surya-20201012.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-OS-10-surya-20201012.zip", 
+  "filesize": "552993356", 
+  "md5": "bd371704167fc6cf050ffe2218cd5eb4", 
+  "donate_url": "https://goo.gl/41iI5i", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v21.0/Magisk-v21.0.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v21.0/Magisk-uninstaller-20201003.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5422618", 
+  "website_url": "https://sourceforge.net/projects/nitrogen-project/files/surya/10.0/", 
+  "developer": "xyyx"
+}
